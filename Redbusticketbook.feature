@@ -1,7 +1,7 @@
 Feature: redbus ticket booking
 
  #Scenario : Searching for buses boking between two cities
- #comment test
+ #comment test subbu
  @smoketest
   Scenario: User searches for buses between two cities
     Given user is on the bus booking homepage
